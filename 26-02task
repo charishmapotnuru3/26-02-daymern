@@ -1,0 +1,7 @@
+*what is time complexity?
+-->Time complexity is a type of computational complexity that describes the time required to execute an algorithm.
+*why do we ignore constants in time complexity?
+-->Constants in big O notations are usually ignored because they don't add much to the complexity when the input size is very large. 
+*why we only consider largest number in time complexity in algorithm?
+-->It gives an upper bound on the resources required by the algorithm. In the case of running time, the worst-case time complexity indicates the longest running time performed by an algorithm given any input of size n, 
+and thus guarantees that the algorithm will finish in the indicated period of time.
